@@ -126,18 +126,6 @@ HR-Analytics-PowerBI-Dashboard/
     └── HR_Analytics_Project_Documentation.pdf
 ```
 
-## 📚 Documentation
-
-A project documentation PDF is included in the `Documentation` folder.
-
-## 👤 Original Project Credit
-
-This portfolio repository is based on the following original project:
-
-**Original creator:** Poorvisha Meenakshi  
-**Original repository:** https://github.com/poorvishameenakshikmb25-star/HR-Analytics-PowerBI-Dashboard
-
-The original work is retained as the reference/base project. This repository reorganizes the project documentation and provides a clear enhancement plan for independent learning and portfolio development.
 
 ## 👨‍💻 Portfolio Usage
 
