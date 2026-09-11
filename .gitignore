@@ -1,9 +1,0 @@
-# Power BI local/cache files
-*.pbit
-*.tmp
-*.bak
-
-# OS/editor files
-Thumbs.db
-.DS_Store
-.vscode/
